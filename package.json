@@ -1,0 +1,8 @@
+{
+  "name": "pg-error-codes",
+  "version": "1.0.0",
+  "description": "Error codes for PostgreSQL",
+  "main": "index.json",
+  "author": "Dylan Pyle <me@dylanpyle.com>",
+  "license": "Public Domain"
+}
