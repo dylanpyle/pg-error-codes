@@ -2,7 +2,7 @@
 
 A list of error codes in PostgreSQL, exposed as JSON. Published as an `npm` package.
 
-Last updated for PostgreSQL 9.4.5.
+Last updated for PostgreSQL 10.4.
 
 ## Usage
 
@@ -26,4 +26,4 @@ Public Domain
 
 ## Sources
 
-[Appendix A. PostgreSQL Error Codes](http://www.postgresql.org/docs/9.4/static/errcodes-appendix.html)
+[Appendix A. PostgreSQL Error Codes](https://www.postgresql.org/docs/10/static/errcodes-appendix.html)
